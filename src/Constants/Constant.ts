@@ -1,0 +1,1 @@
+export const APP_TITLE = 'Think ERP Solutions - Intelligent Business Management';
